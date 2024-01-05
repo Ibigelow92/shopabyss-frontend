@@ -46,6 +46,8 @@ function App() {
 export default App;
 
 // Product data is in the assets folder under all_product.js (10:36)
-// left off at 1:38:33
+// left off at 2:32:13
 
 // So shopcontext populates the shop. Can be seen in index.js and shopcontext.jsx
+
+// Made it to 2:55:10, but there's a problem getting total cart amount.
